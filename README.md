@@ -1,4 +1,4 @@
-## Ola, me chamo Carlos Eduardo, atualmente dev front end, segue em baixo minhas redes sociais ! 😊
+## Ola, me chamo Carlos Eduardo, atualmente estudo a área front end, segue em baixo minhas redes sociais ! 😊
 <div style="display: inline_block"><br/>
 <img align="center" alt="facebook" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" height="45px"/>
 <img align="center" alt="github" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" height="45px" />
