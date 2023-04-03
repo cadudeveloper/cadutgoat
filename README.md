@@ -1,10 +1,10 @@
-## Ola, me chamo Carlos Eduardo, atualmente estudante de programação ! 😊
+## Ola, me chamo Carlos Eduardo, atualmente dev front end, segue em baixo minhas redes sociais ! 😊
 [![linkedir](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-553296250/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cadutgoat)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cadumarcal_/)
 
 ## FRAMEWORK'S
-<img align="center" alt="bootstrap" src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/bootstrap.svg" />
+<img align="center" alt="bootstrap" src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/bootstrap.svg" width="35px" />
 
 
 
