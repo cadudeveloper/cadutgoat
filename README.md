@@ -12,7 +12,7 @@
 
  <img align="center" alt="hmtl5" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4905ed4d1c968a6aa66e5407c28be701fb636f00/icons/html5.svg" height="35px" />
   <img align="center" alt="css3" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4905ed4d1c968a6aa66e5407c28be701fb636f00/icons/css3.svg"
-height="45px" />
+height="35px" />
  
  ## OUTRAS TECNOLOGIAS 
  
