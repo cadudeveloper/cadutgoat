@@ -10,7 +10,7 @@
  <img align="center" alt="javascript" src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/javascript.svg" height="35px" />
   <img align="center" alt="css3" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4905ed4d1c968a6aa66e5407c28be701fb636f00/icons/css3.svg"
 height="35px" />
- <img align="center" alt="html5" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4905ed4d1c968a6aa66e5407c28be701fb636f00/icons/html5.svg"
+ <img align="center" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg"
 height="35px" />
  
  ## BANCO DE DADOS 
