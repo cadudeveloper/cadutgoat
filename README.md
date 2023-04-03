@@ -17,5 +17,5 @@ height="35px" />
  ## OUTRAS TECNOLOGIAS 
  
  <img align="center" alt="git" src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/git.svg" height="45px" />
- <img align="center" alt="gcloud" src="https://raw.githubusercontent.com/simple-icons/simpleicons/4905ed4d1c968a6aa66e5407c28be701fb636f00/icons/googlecloud.svg" height="45px"/>
+ <img align="center" alt="gcloud" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4905ed4d1c968a6aa66e5407c28be701fb636f00/icons/googlecloud.svg" height="45px"/>
 </div>
