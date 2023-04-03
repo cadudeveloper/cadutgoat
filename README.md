@@ -16,7 +16,6 @@ height="35px" />
  <img align="center" alt="javascript" src=" https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/javascript.svg"
 height="35px" />
     
-
  
  ## OUTRAS TECNOLOGIAS 
  
