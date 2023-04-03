@@ -13,5 +13,5 @@
 <img align="center" alt="microsoft-azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
  
  
- <img align="center" alt="hmtl5" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4905ed4d1c968a6aa66e5407c28be701fb636f00/icons/html5.svg" />
+ <img align="center" alt="hmtl5" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4905ed4d1c968a6aa66e5407c28be701fb636f00/icons/html5.svg" height="45px" />
 </div>
