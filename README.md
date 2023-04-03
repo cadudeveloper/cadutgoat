@@ -1,6 +1,6 @@
 ## Ola, me chamo Carlos Eduardo, atualmente estudo a área front end, segue em baixo minhas redes sociais e habilidades ! 😊
 <div style="display: inline_block"><br/>
-<img align="center" alt="facebook" href="facebook.com/cadu.silva.3517" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" height="45px"/>
+<img align="center" alt="facebook" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" height="45px"/>
 <img align="center" alt="github" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" height="45px" />
 <img align="center" alt="linkedin" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" height="40px"/>
 
