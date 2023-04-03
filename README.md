@@ -3,12 +3,6 @@
 <img align="center" alt="facebook" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" height="45px"/>
 <img align="center" alt="github" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" height="45px" />
 
- 
-## FRAMEWORK'S
-<img align="center" alt="bootstrap" src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/bootstrap.svg" width="35px" />
-
- 
-
 ## LINGUAGENS
 
 <!--- [![Linguagens que uso](https://github-readme-stats.vercel.app/api/top-langs/?username=cadutgoat&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -26,7 +20,8 @@ height="35px" />
  
  <img align="center" alt="git" src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/git.svg" height="45px" />
  <img align="center" alt="gcloud" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="45px"/>
- <img align="center" alt="azure" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/azure.svg" height="35px" /> 
+ <img align="center" alt="azure" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/azure.svg" height="35px"/> 
+ <img align="center" alt="bootstrap" src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/bootstrap.svg" width="35px" />
  
  
  ## ESTUDANDO 📝 
