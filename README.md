@@ -23,10 +23,10 @@ height="35px" />
  <img align="center" alt="gcloud" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="45px"/>
  <img align="center" alt="azure" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/azure.svg" height="35px"/> 
  <img align="center" alt="bootstrap" src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/bootstrap.svg" width="35px" />
- 
+ <!--
  ## IDE'S 
  <img align="center" alt="intellij" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg" height="35px" />
- <img align="center" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="35px" />
+ <img align="center" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="35px" /> -->
  
  ## ESTUDANDO 📝 
  <img align="center" alt="java" src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/java.svg" height="45px" />
