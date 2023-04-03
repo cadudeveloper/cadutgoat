@@ -1,7 +1,5 @@
 ## Ola, me chamo Carlos Eduardo, atualmente dev front end, segue em baixo minhas redes sociais ! 😊
-<div style="display: inline_block"><br/>
-<img align="center" alt="facebook" src="https://www.facebook.com/cadu.silva.3517" />
- </div>
+<img align="center" alt="facebook" src="(https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg)" />
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cadutgoat)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cadumarcal_/)
 
