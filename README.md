@@ -19,6 +19,8 @@ height="35px" />
  <img align="center" alt="html5" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4905ed4d1c968a6aa66e5407c28be701fb636f00/icons/html5.svg"
 height="35px" />
  
+ ## BANCO DE DADOS 
+ <img align="center" alt="mysql" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/mysql-logo.svg" height="35px" />
  
  ## OUTRAS TECNOLOGIAS 
  
