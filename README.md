@@ -1,6 +1,6 @@
 ## Ola, me chamo Carlos Eduardo, atualmente dev front end, segue em baixo minhas redes sociais ! 😊
 <div style="display: inline_block"><br/>
-<img align="center" alt="facebook" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" href="https://www.facebook.com/cadu.silva.3517" height="45px"/>
+<img align="center" alt="facebook" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" ahref="https://www.facebook.com/cadu.silva.3517" height="45px"/>
 <img align="center" alt="github" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" height="45px" />
 
  
