@@ -1,4 +1,4 @@
-## Ola, me chamo Carlos Eduardo, atualmente estudo a área front end, segue em baixo minhas redes sociais e habilidades ! 😊
+## Ola, me chamo Carlos Eduardo, atualmente sou um estudante de programação ! 😊
 <div style="display: inline_block"><br/>
 <img align="center" alt="facebook" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" height="45px"/>
 <img align="center" alt="github" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" height="45px" />
@@ -29,6 +29,6 @@ height="35px" />
  <img align="center" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="35px" /> -->
  
  ## ESTUDANDO 📝 
- <img align="center" alt="java" src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/java.svg" height="45px" />
+ <img align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" height="45px" />
  
 </div>
