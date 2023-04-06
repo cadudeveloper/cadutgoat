@@ -8,7 +8,7 @@
 
 <!--- [![Linguagens que uso](https://github-readme-stats.vercel.app/api/top-langs/?username=cadutgoat&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
- <img align="center" alt="javascript" src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/javascript.svg" height="35px" />
+<!-- <img align="center" alt="javascript" src="https://raw.githubusercontent.com/jmnote/z-icons/bd73f8f803467f185ffd94f4fc7c24ce931eb926/svg/javascript.svg" height="35px" /> -->
   <img align="center" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg"
 height="35px" />
  <img align="center" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg"
